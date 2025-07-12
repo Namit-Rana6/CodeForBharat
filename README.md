@@ -408,26 +408,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Scikit-learn** for statistical utilities
 - **LangChain** for AI integration framework
 
-## 📞 Support & Contact
-
-### Getting Help
-- 📖 **Documentation**: PROJECT_DOCUMENTATION.md
-- 🐛 **Issues**: GitHub Issues tab
-- 💬 **Discussions**: GitHub Discussions
-- 📧 **Email**: [your-email@domain.com]
-
-### Community
-- 🌟 **Star** this repo if you find it useful
-- 🍴 **Fork** to create your own version
-- 📢 **Share** with colleagues and friends
-- 🤝 **Contribute** to make it even better
-
----
 
 <div align="center">
 
 **Built with ❤️ for the data science community**
-
-[⭐ Star this repo](https://github.com/your-username/advanced-data-analysis) | [🐛 Report Bug](https://github.com/your-username/advanced-data-analysis/issues) | [💡 Request Feature](https://github.com/your-username/advanced-data-analysis/issues)
 
 </div>
