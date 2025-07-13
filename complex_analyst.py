@@ -1003,7 +1003,7 @@
         print("SUCCESS: File found. Beginning objective-driven analysis...")
         
         # Set up API
-        api_key = os.getenv("GOOGLE_API_KEY", "AIzaSyDloWhFDYK4MGsnAz3MFFUVmUaYlLSeyC8")
+        api_key = os.getenv("GOOGLE_API_KEY", "YOUR API KEY")
         os.environ["GOOGLE_API_KEY"] = api_key
         llm = ChatGoogleGenerativeAI(model="gemini-1.5-flash", temperature=0.1)
         
